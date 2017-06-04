@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+	<html lang="pt-br">
+		<head>
+			<meta charset="utf-8">
+			<title>Curso de HTML</title>
+			<link rel="stylesheet" href="estilo.css">
+		</head>
+		
+		<body>
+			<div = class="principal">
+				<header>CABEÇALHO<br><br> AQUI PODE TER: BANNER, ANUNCIO, NOME DO SITE, LOGO TIPO, INFORMAÇÕES DE CONTATO(TEF OU EMAIL)</header>
+				<nav>MENU<br></nav>
+				<section>CONTEÚDO<br><br> AQUI VAI O CONTEÚDO PRINCIPAL - JUNTO COM A TAG <"ARTICLE"> </section>
+				<aside>CONTEÚDO RELACIONADO<br><br> AQUI PODE ALGUMAS CHAMADAS RELACIONADAS AO MEU CONTEÚDO PRINCIPAL OU ALGUNS ANÚNCIOS </aside>
+				<footer>RODAPÉ<br><br> RODAPÉ</footer>
+				
+			</div>
+		</body>
+		
+		</html>
+		
+	
+			
