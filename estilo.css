@@ -1,0 +1,72 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+}
+
+div.principal{
+  background-color: #ccc; /* */
+   width: 1000px; /*largura*/
+   margin: auto; /*margin: centralizar/posicionar na tela*/
+   margin-top: 20px; 
+   padding:10px; /*padding: distancia de todos os lados*/
+
+  }
+  
+
+  header {
+ background-color: #fff; 
+  width: 1000px;
+  height: 200px; /* comprimento */
+  
+    
+}
+
+nav{
+  background-color: #fff;
+  margin-top:100px;
+  width:1000px;
+  height: 50px; /* comprimento */
+}
+
+section { /*CONTEUDoO DA PAGINA*/
+   background-color: #fff;
+   margin-top:10px;
+   width: 600px; /*deve ser menor para colocar conteudo reelacionado ao lado*/
+   height: 500px;
+   float: left;
+  
+  
+  
+  
+}
+
+aside{ /*CONTEUDoO relacionado DA PAGINA*/
+  background-color: #fff;
+  margin-top: 10px;
+  width:300px;
+  height: 500px;
+  margin-left: 10px;
+  float: left;
+  margin-left: 50px;
+  margin-bottom: 10px; /* mandando o rodapé descer - pq o comando clean:both n permite eu fzr isso pelo .footer*/
+  
+  
+   
+  
+ 
+}
+
+footer{
+  background-color:#fff;
+  width:1000px;
+  height: 100px;
+  clear: both; /* "limpa o efeito float da footer "*/
+ 
+  
+  
+  
+  
+}
+
+
